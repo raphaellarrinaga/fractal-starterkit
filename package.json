@@ -1,0 +1,16 @@
+{
+  "name": "Fractal starterkit",
+  "version": "0.1.0",
+  "description": "Reusable Fractal starterkit with basic component examples",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "@frctl/fractal": "^1.0.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-gh-pages": "^0.5.4"
+  }
+}
