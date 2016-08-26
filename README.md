@@ -1,6 +1,6 @@
 # Fractal starterkit
 
-Reusable [Fractal](http://fractal.build/) starterkit with basic component examples. Uses the same `gulpfile.js` as provided in the [official documentation](http://fractal.build/guide/integration/build-tools) with smalls additions.
+Reusable [Fractal](http://fractal.build/) starterkit with basic component examples. Uses the same `gulpfile.js` as provided in the [official documentation](http://fractal.build/guide/integration/build-tools) with small additions.
 It comes with a task to publish the exported styleguide on Github Pages too.
 
 Use it as a starterkit or for a real life example.
